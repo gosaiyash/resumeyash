@@ -1,0 +1,137 @@
+
+body
+{
+	margin:0px;
+	padding:0px;
+}
+.mix
+{
+	margin:0px;
+	padding:0px;
+	color:white;	
+}
+
+
+h1
+{
+	font-family:Arial Black;	
+}
+
+#header
+{
+	text-align:center;
+	border:2px black solid;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color:black;
+}
+
+#nav
+{
+	text-align:center;
+	border:2px black solid;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color:lightgray;
+}
+
+.#nav01
+{
+
+	padding-right:100px;	
+}
+
+.nav01
+{
+	padding-left:100px;	
+}
+
+#main
+{
+	display:flex;
+	flex-direction:row:	
+
+}
+
+
+#main1
+{
+	border:2px black solid;
+	width:10%;
+	height:88.5vh;
+}
+
+
+#main2
+{
+	border:2px black solid;
+	width:90%;
+	height:80.5vh;
+	padding:10px;
+	padding-left:650px;
+	padding-top:80px;
+
+	margin:0px;
+}
+
+a:hover
+{
+	color:red;
+
+}
+
+a:active
+{
+	color:black;
+
+}
+
+a
+{
+	text-decoration-line:underline;
+	text-decoration-color:lightgray;
+	font-family:Algerian;
+	color:green;
+}
+
+#main_table2
+{
+
+}
+
+.a1:hover
+{
+	color:red;
+
+}
+
+.a1:active
+{
+	color:yellow;
+
+}
+
+.a1
+{
+	text-decoration-line:underline;
+	text-decoration-color:white;
+	font-family:Algerian;
+	color:green;
+}
+.img1
+{
+	width:9.5vw;	
+}
+
+.main01
+{
+	margin-top:375px;
+
+}
+.main02
+{
+	margin-top:50px;
+
+}
+
+
